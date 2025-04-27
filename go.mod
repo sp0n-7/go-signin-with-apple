@@ -3,8 +3,9 @@ module github.com/sp0n-7/go-signin-with-apple
 go 1.20
 
 require (
-	github.com/golang-jwt/jwt/v5 v5.2.1
-	github.com/stretchr/testify v1.9.0
+	github.com/Timothylock/go-signin-with-apple v0.2.5
+	github.com/golang-jwt/jwt/v5 v5.2.2
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
